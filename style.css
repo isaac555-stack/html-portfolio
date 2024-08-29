@@ -1,0 +1,22 @@
+html {
+  background-color: rgb(2, 5, 5);
+}
+h1 {
+  color: goldenrod;
+}
+h2 {
+  color: rgb(221, 32, 111);
+}
+
+#solo {
+  color: aliceblue;
+}
+#demon {
+  color: rgb(212, 5, 212);
+}
+#jujutsu {
+  color: rgb(233, 8, 8);
+}
+#this {
+  color: gold;
+}
